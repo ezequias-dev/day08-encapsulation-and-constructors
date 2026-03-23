@@ -1,4 +1,4 @@
-package exercises;
+package examples;
 
 public class Product {
     private String name;

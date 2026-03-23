@@ -1,4 +1,4 @@
-package exercises;
+package examples;
 
 public class Customer {
     private String fullName;
